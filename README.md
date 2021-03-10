@@ -12,18 +12,15 @@
 * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=1for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=1for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=1for-the-badge&logo=javascript&logoColor=black)
 * ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=1for-the-badge&logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=1for-the-badge&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=1for-the-badge&logo=git&logoColor=white)
 * ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=1for-the-badge&logo=microsoft-excel&logoColor=white)
-
 <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eajose&show_icons=true&count_private=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eajose&layout=compact&theme=dracula)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=eajose&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=eajose&hide_border=true&theme=dark)
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=eajose&repo=eajose&countColorcountColor)
-
-<iframe width="200" height="200" src="https://ionicabizau.github.io/github-profile-languages/api.html?eajose" frameborder="0"></iframe>
 
 <hr />
 
