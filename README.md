@@ -23,6 +23,8 @@
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=eajose&repo=eajose&countColorcountColor)
 
+<iframe width="200" height="200" src="https://ionicabizau.github.io/github-profile-languages/api.html?eajose" frameborder="0"></iframe>
+
 <hr />
 
 ## 📫 Get in touch
